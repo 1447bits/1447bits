@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am not ded yet. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-okey)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-okey&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
