@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with UI/UX.
 - 📫 How to reach me: vyasatharv889@gmail.com
 - 🖐️ personal website : https://mr-okey.github.io/portfollio/
-- 😄 Pronouns: he/him
 
 ![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-okey&show_icons=true&theme=radical)
 
