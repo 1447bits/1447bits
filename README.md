@@ -39,5 +39,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mr-okey&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![@infinite_fig's Holopin board](https://holopin.me/infinite_fig)](https://holopin.io/@infinite_fig)
+<h3>Achivements</h3>
+<hr />
 
+[![@infinite_fig's Holopin board](https://holopin.me/infinite_fig)](https://holopin.io/@infinite_fig)
