@@ -18,15 +18,14 @@ https://media.tenor.com/eGZSsb7-1xsAAAAi/cute-man.gif
 
 ## 🏃‍♂️Life Theory 
 ```c++
-class middle {
-
-  public : void life(input = "efforts") {
+class Human : public Male {
+  Protected : void life(input = "efforts") {
     while(alive){
       eat(🍔);
       sleep(🛌);
       code(🧑‍💻);
     };
-  };
+  }
 };
 ```
 
