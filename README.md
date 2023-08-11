@@ -82,10 +82,10 @@ class Human : public Male {
 <h2>Stats</h2>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-okey&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-okey&show_icons=true&theme=radical) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-okey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1447bits&show_icons=true&theme=radical) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1447bits&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mr-okey&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1447bits&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Achivements</h3>
 
